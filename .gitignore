@@ -34,6 +34,9 @@
 # backend production
 /server/build
 
+# credentials
+/server/src/credentials
+
 # misc
 .DS_Store
 .env.local
